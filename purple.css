@@ -95,10 +95,10 @@ main .gsc-loading-image {
   background-image: url("https://github.githubassets.com/images/mona-loading-dark.gif");
 }
 
-.input-contrast:focus {
-  background-color: var(--color-canvas-inset, var(--color-input-bg)) !important;
+.gsc-header {
+   display: none;
 }
 
-.gsc-is-fixed-width, html {
-  font-family: system-ui, monospace, sans-serif;
+.input-contrast:focus {
+  background-color: var(--color-canvas-inset, var(--color-input-bg)) !important;
 }
