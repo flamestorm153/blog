@@ -100,5 +100,5 @@ main .gsc-loading-image {
 }
 
 .gsc-is-fixed-width, html {
-  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: system-ui, monospace, sans-serif;
 }
