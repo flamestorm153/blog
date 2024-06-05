@@ -99,6 +99,10 @@ main .gsc-loading-image {
   background-color: var(--color-canvas-inset, var(--color-input-bg)) !important;
 }
 
-.gsc-is-fixed-width, html {
+.gsc-is-fixed-width {
   font-family: monospace, sans-serif;
+}
+
+html {
+  font-family: sans-serif;
 }
