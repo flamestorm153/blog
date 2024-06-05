@@ -85,8 +85,6 @@ main {
   /*! Extensions from @primer/css/alerts/flash.scss */
   --color-social-reaction-bg-hover: rgba(var(--primary-default), 0.15);
   --color-social-reaction-bg-reacted-hover: rgba(var(--primary-default), 0.2);
-
-  font-family: 
 }
 
 main .pagination-loader-container {
@@ -102,5 +100,5 @@ main .gsc-loading-image {
 }
 
 .gsc-is-fixed-width, html {
-  font-family: 'JetBrains Mono', monospace;
+  font-family: monospace;
 }
